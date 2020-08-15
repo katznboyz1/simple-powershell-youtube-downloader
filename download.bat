@@ -1,1 +1,1 @@
-powershell ./youtube-downloader.ps1
+powershell.exe -noprofile -executionpolicy bypass -file .\youtube-downloader.ps1
